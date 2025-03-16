@@ -1,0 +1,31 @@
+from casioplot import *
+from gint import *
+
+KEYS_TABLE = {
+  KEY_XOT: 'a',
+  KEY_LOG: 'b',
+  KEY_LN: 'c',
+  KEY_SIN: 'd',
+  KEY_COS: 'e',
+  KEY_TAN: 'f',
+  KEY_FRAC: 'g',
+  KEY_SWITCH: 'h',
+  KEY_LEFTP: 'i',
+  KEY_RIGHTP: 'j',
+  KEY_COMMA: 'k',
+  KEY_ARROW: 'l',
+  KEY_7: 'm',
+  KEY_8: 'n',
+  KEY_9: 'o',
+  KEY_4: 'p',
+  KEY_5: 'q',
+  KEY_6: 'r',
+  KEY_TIMES: 's',
+  KEY_DIV: 't',
+  KEY_1: 'u',
+  KEY_2: 'v',
+  KEY_3: 'w',
+  KEY_PLUS: 'x',
+  KEY_MINUS: 'y',
+  KEY_0: 'z',
+}
